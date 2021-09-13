@@ -19,3 +19,5 @@ idade=ano_nasc-ano
 escreva("a sua idade e ",idade)
 }
  }
+! [Imagem do codigo]
+(https://photos.app.goo.gl/pn7FZmb1tGBUeXCJ9)
